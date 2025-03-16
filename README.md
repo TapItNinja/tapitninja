@@ -165,6 +165,9 @@
   <a href="https://github.com/TapItNinja/machine-learning-models">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TapItNinja&repo=machine-learning-models&theme=tokyonight" />
   </a>
+  <a href="https://github.com/TapItNinja/AttendEase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TapItNinja&repo=AttendEase&theme=tokyonight" />
+  </a>
 </div>
 
 ## 🔄 Recent Activity
