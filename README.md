@@ -36,6 +36,28 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@shubham.shaswat2002&theme=gruvbox" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TapItNinja/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="153" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="aftereffects logo"  />
   <img width="13" />
@@ -128,28 +150,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="35" alt="xcode logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="35" alt="xd logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="153" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@shubham.shaswat2002&theme=gruvbox" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TapItNinja/count.svg?"  />
 </div>
 
 ###
