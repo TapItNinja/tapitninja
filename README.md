@@ -159,8 +159,8 @@
   <a href="https://github.com/TapItNinja/VitalAid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TapItNinja&repo=VitalAid&theme=tokyonight" />
   </a>
-  <a href="https://github.com/TapItNinja/data-analytics-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TapItNinja&repo=data-analytics-portfolio&theme=tokyonight" />
+  <a href="[https://github.com/TapItNinja/data-analytics-portfolio](https://github.com/TapItNinja/Dad-jokes)">
+    <img src="https://github.com/TapItNinja/Dad-jokes/blob/main/component/logo.png" />
   </a>
   <a href="https://github.com/TapItNinja/machine-learning-models">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TapItNinja&repo=machine-learning-models&theme=tokyonight" />
