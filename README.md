@@ -180,5 +180,5 @@
 </div>
 
 <div align="center">
-  <h3>Let's build the future of AI and data together! 🚀🔥</h3>
+  <h3>BEYOND CODE: THINKING OUTSIDE THE BOT 🚀🔥</h3>
 </div>
