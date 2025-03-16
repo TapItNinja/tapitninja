@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+World!+I'm+Shubham;Data+Engineer+%26+Entrepreneur;Building+AI-powered+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FCE490&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+World!+I'm+Shubham;Data+Engineer+%26+Entrepreneur;Building+AI-powered+solutions" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -22,9 +22,116 @@
 - 🏆 Previous internships at SBI, Paisalo, and Jindal Steel
 - 📚 Preparing for AWS Solutions Architect & Developer Certifications
 - 🎬 Contributing to open-source (GSoC 2025)
-- 🌐 Check out [SwiftDine Website](https://www.swiftdine.tech)
+- 🌐 Check out [SwiftDine Website](https://swiftdine.rest)
 
 <br>
+
+## 🍽️ Featured Project: SwiftDine
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animations-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3><a href="https://swiftdine.rest">SwiftDine</a> - AI-Powered Restaurant Management Solution</h3>
+  <p style="color: #FCE490; font-style: italic;">Revolutionizing Restaurant Management</p>
+</div>
+
+<table>
+  <tr>
+    <td width="70%">
+      <p>SwiftDine is an all-in-one restaurant management platform that leverages AI to streamline operations, boost efficiency, and enhance customer experiences. The platform provides powerful tools for:</p>
+      <ul>
+        <li>🧠 AI-powered inventory management</li>
+        <li>⏱️ Automated staff scheduling</li>
+        <li>📊 Real-time analytics and reporting</li>
+        <li>🔔 Instant order notifications</li>
+        <li>💳 Seamless payment processing</li>
+      </ul>
+      <p>Built with modern technologies including React, Framer Motion for animations, and TailwindCSS for styling, SwiftDine delivers a smooth, responsive user experience on any device.</p>
+      <p><a href="https://swiftdine.rest">Visit SwiftDine →</a></p>
+    </td>
+    <td width="30%">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/main/assets/swiftdine-logo.png" alt="SwiftDine Logo" width="150" />
+        <br />
+        <br />
+        <img src="https://img.shields.io/badge/Web-swiftdine.rest-FCE490?style=flat-square" />
+        <br />
+        <img src="https://img.shields.io/badge/Theme-Dark-1C1C1C?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 🌟 UI/UX Features
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/main/assets/animated-bg.gif" width="100" />
+        <br />
+        <span>Animated Backgrounds</span>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/main/assets/motion-effects.gif" width="100" />
+        <br />
+        <span>Interactive Motion</span>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/main/assets/responsive-design.gif" width="100" />
+        <br />
+        <span>Responsive Design</span>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/main/assets/dark-mode.gif" width="100" />
+        <br />
+        <span>Dark Mode</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💫 Hero Section
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Color_Scheme-%231C1C1C_+_%23FCE490-FCE490?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Animations-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive-100%25-success?style=for-the-badge" />
+</div>
+
+<div align="center">
+  <h3>Revolutionize Your Restaurant Management</h3>
+  <p>Streamline operations, boost efficiency, and delight customers with SwiftDine's all-in-one solution.</p>
+</div>
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🌟 Premium dark theme with gold accents (#1C1C1C + #FCE490)</li>
+        <li>✨ Animated background elements with subtle glowing effects</li>
+        <li>🔄 Floating particles to enhance visual appeal</li>
+        <li>🎭 Smooth motion transitions with staggered animations</li>
+        <li>🎬 Integrated video showcase with gradient overlays</li>
+        <li>📱 Responsive design that adapts to all device sizes</li>
+        <li>🖱️ Interactive hover effects on all buttons and elements</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/main/assets/hero-screenshot.png" alt="SwiftDine Hero Section" width="100%" />
+        <br />
+        <br />
+        <img src="https://img.shields.io/badge/Visit-swiftdine.rest-FCE490?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -58,6 +165,15 @@
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   </p>
   
+  <h3>Frontend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </p>
+  
   <h3>Cloud & DevOps</h3>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -75,10 +191,8 @@
     <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
   </p>
   
-  <h3>Languages & Frameworks</h3>
+  <h3>Languages & Other Frameworks</h3>
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
@@ -104,14 +218,14 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@shubham.shaswat2002&theme=tokyonight" alt="Latest Medium Posts" />
 </div>
 
-## 🌟 Featured Projects
+## 🌟 Other Projects
 
 <div align="center">
-  <a href="https://github.com/TapItNinja/SwiftDine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TapItNinja&repo=SwiftDine&theme=tokyonight" />
-  </a>
   <a href="https://github.com/TapItNinja/data-analytics-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TapItNinja&repo=data-analytics-portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/TapItNinja/machine-learning-models">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TapItNinja&repo=machine-learning-models&theme=tokyonight" />
   </a>
 </div>
 
