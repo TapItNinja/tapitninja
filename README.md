@@ -56,7 +56,7 @@
     </td>
     <td width="30%">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/TapItNinja/TapItNinja/main/assets/swiftdine-logo.png" alt="SwiftDine Logo" width="150" />
+        <img src="https://github.com/TapItNinja/tapitninja/blob/main/Untitled%20design%20(1).png" alt="SwiftDine Logo" width="150" />
         <br />
         <br />
         <img src="https://img.shields.io/badge/Web-swiftdine.rest-FCE490?style=flat-square" />
