@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! I'm Shubham Shaswat, a Data Engineer & Entrepreneur 👋🏼</h1>
+<h1 align="center">Hello World! I'm Shubham Shaswat, a Data Engineer & Entrepreneur 👋🏼</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/shubham_shaswat02/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
