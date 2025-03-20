@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2>🚀 About</h2>
+  <h2>🚀 About Me</h2>
   <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </div>
 
