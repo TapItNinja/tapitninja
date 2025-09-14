@@ -147,9 +147,12 @@
   </p>
 </div>
 
-## 📝 Latest Medium Articles
+## 🧩 Problem Solving
+
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@shubham.shaswat2002&theme=tokyonight" alt="Latest Medium Posts" />
+  <a href="https://leetcode.com/u/bot-thinking/">
+    <img src="https://leetcard.jacoblin.cool/vishpish?theme=unicorn&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats"/>
+  </a>
 </div>
 
 ## 🌟 Other Projects
