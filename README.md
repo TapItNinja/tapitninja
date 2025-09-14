@@ -151,9 +151,10 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/bot-thinking/">
-    <img src="https://leetcard.jacoblin.cool/bot-thinking?theme=unicorn&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/bot-thinking?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=16&bg=1C1C1C&stroke=FCE490&heatmap=FCE490" alt="LeetCode Stats"/>
   </a>
 </div>
+
 
 
 ## 🌟 Other Projects
