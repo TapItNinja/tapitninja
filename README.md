@@ -151,7 +151,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/bot-thinking/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile"/>
+    <img src="https://leetcard.jacoblin.cool/bot-thinking?theme=unicorn&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats"/>
   </a>
 </div>
 
