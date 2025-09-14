@@ -151,7 +151,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/bot-thinking/">
-    <img src="https://leetcard.jacoblin.cool/vishpish?theme=unicorn&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats"/>
+    <img src="https://leetcode.com/u/bot-thinking/?theme=unicorn&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats"/>
   </a>
 </div>
 
