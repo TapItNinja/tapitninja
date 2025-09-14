@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FCE490&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World!+I'm+Shubham;Data+Engineer+%26+Entrepreneur;Building+AI-powered+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FCE490&center=true&vCenter=true&random=false&width=800&height=100&lines=Hello+World!+I'm+Shubham;Application+Engineer+@+IDFC+FIRST+Bank;Building+AI-powered+solutions" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -15,13 +15,13 @@
   <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </div>
 
-- 🛜 Currently building **SwiftDine** – AI-powered restaurant automation
-- 👨🏼‍🎓 Studied Data Engineering, Machine Learning & Big Data Technologies
-- 👨🏼‍💻 Working as a Data Engineer & ML Engineer
-- 🏆 Previous internships at SBI, Paisalo, and Jindal Steel
-- 📚 Preparing for AWS Solutions Architect & Developer Certifications
-- 🎬 Contributing to open-source (GSoC 2025)
-- 🌐 Check out [SwiftDine Website](https://swiftdine.rest)
+- 💼 Currently working as an **Application Engineer @ IDFC FIRST Bank**
+- 🛜 Building **SwiftDine** – AI-powered restaurant automation (Founder)
+- 👨🏼‍🎓 Skilled in Data Engineering, Machine Learning & Big Data
+- 🏆 Previous internships at **SBI, Paisalo, and Jindal Steel**
+- 📚 Preparing for **AWS Solutions Architect & Developer Certifications**
+- 🎬 Contributor to **Open Source (GSoC 2025)**
+- 🌐 Explore more: [SwiftDine Website](https://swiftdine.rest)
 
 <br>
 
@@ -66,7 +66,6 @@
   </tr>
 </table>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,64 +87,7 @@
 
 ## 💻 Skills & Technologies
 
-<div align="center">
-  <h3>Data & ML</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  </p>
-  
-  <h3>Frontend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  </p>
-  
-  <h3>Cloud & DevOps</h3>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </p>
-  
-  <h3>Databases</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  </p>
-  
-  <h3>Languages & Other Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  </p>
-  
-  <h3>Tools & Environments</h3>
-  <p>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  </p>
-</div>
+*(keep your current skills badges — they’re already neat and recruiter-friendly)*
 
 ## 🧩 Problem Solving
 
@@ -154,8 +96,6 @@
     <img src="https://leetcard.jacoblin.cool/bot-thinking?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=16&bg=1C1C1C&stroke=FCE490&heatmap=FCE490" alt="LeetCode Stats"/>
   </a>
 </div>
-
-
 
 ## 🌟 Other Projects
 
@@ -182,7 +122,7 @@
 ## 📫 Let's Connect
 
 <div align="center">
-  <p>Want to discuss data engineering, machine learning, or startups? Feel free to reach out!</p>
+  <p>Want to discuss data engineering, fintech, or startups? Feel free to reach out!</p>
   <a href="https://www.linkedin.com/in/shaswatshubham/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
